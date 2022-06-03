@@ -1,16 +1,4 @@
-- 👋 Hi, I’m @fabianosilvait
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-fabianosilvait/fabianosilvait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-### Hi 👋
+### Hi 👋 I’m @fabianosilvait
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
