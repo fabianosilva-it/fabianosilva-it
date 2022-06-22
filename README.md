@@ -1,6 +1,6 @@
 ### Hi 👋 I’m Fabiano Silva!
 
-I'm looking for new projets to develop, new challenges. 
+I'm looking for new projets to develop and new challenges. 
 
 Send a message with your ideia, let's work together!
 
